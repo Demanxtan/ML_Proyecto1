@@ -10,7 +10,7 @@
    - Transfer Learning usando pesos preentrenados.
    - Congelación parcial de capas.
    - Ajustado para clasificación binaria.
-- **CNN personalizada**
+**CNN personalizada**
    - Arquitectura creada desde cero.
    - Menor cantidad de parámetros.
    - Entrenada completamente sobre el dataset original.
