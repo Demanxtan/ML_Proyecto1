@@ -6,9 +6,15 @@
 
 ## Modelos implementados
 
-- **MobileNetV2 (Transfer Learning)**
-- **CNN personalizada desde cero**
-- Comparados en términos de precisión, arquitectura y desempeño.
+**MobileNetV2**  
+   - Transfer Learning usando pesos preentrenados.
+   - Congelación parcial de capas.
+   - Ajustado para clasificación binaria.
+- **CNN personalizada**
+   - Arquitectura creada desde cero.
+   - Menor cantidad de parámetros.
+   - Entrenada completamente sobre el dataset original.
+Ambos modelos fueron **comparados en términos de precisión, arquitectura y desempeño**.
 
 ## Descarga de los modelos
 
