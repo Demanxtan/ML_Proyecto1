@@ -18,7 +18,7 @@ Ambos modelos fueron **comparados en términos de precisión, arquitectura y des
 
 ## Descarga de los modelos
 
-el modelo MobileNetv2 se encuentra en el repositorio, el CNN se puede obtener al hacer correr el archivo 'prediccion_frutas_verduras',
+el modelo MobileNetv2 y del CNN se puede obtener al hacer correr el archivo 'prediccion_frutas_verduras',
 dentro del archivo poder guardarlos una vez hecho el entrenamiento e importarlos en el `steamlit`.
 
 ## Recomendacion de hacerlos correr por Jupyter Notebooks o Google Colab, nosotros utilizamos este ultimo mencionado.
